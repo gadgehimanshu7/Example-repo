@@ -1,2 +1,3 @@
-# Example Repository
-Hello world!!S
+# Example Repository        //md-->Markdown
+Hello Himanshu!!
+How u doin?      
